@@ -1,6 +1,6 @@
 {
-  "homepage": "https://NVyrsta.github.io/coderiver",
-  "name": "code-river",
+  
+  "name": "homegallery",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "dotenv -e .env react-scripts start",
-    "build": "dotenv -v BUILD_PATH=./build -v PUBLIC_PATH=https://meronggk.github.io/home-design-gallery/ react-scripts build",
+    "build": "dotenv -v BUILD_PATH=./build -v PUBLIC_URL=https://meronggk.github.io/home-design-gallery/ react-scripts build",
     "test": "dotenv react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
