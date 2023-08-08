@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/coderiver/static/css/main.b881cab3.css",
-    "main.js": "/coderiver/static/js/main.cc42d34b.js",
-    "static/media/home-img.jpg": "/coderiver/static/media/home-img.a418a10b3f55681d46a1.jpg",
-    "static/media/slide-4.jpg": "/coderiver/static/media/slide-4.6f60408c9933cbf41015.jpg",
-    "static/media/slide-6.jpg": "/coderiver/static/media/slide-6.273d0465f95a23ce2962.jpg",
-    "static/media/slide-8.jpg": "/coderiver/static/media/slide-8.c3e8584ee40d839872a8.jpg",
-    "static/media/slide-3.jpg": "/coderiver/static/media/slide-3.b9f66259fbd61ea0dcfb.jpg",
-    "static/media/slide-5.jpg": "/coderiver/static/media/slide-5.36776858372a55ed9f0f.jpg",
-    "static/media/slide-1.jpg": "/coderiver/static/media/slide-1.31be25227d2bcfa49933.jpg",
-    "static/media/slide-9.jpg": "/coderiver/static/media/slide-9.33d831ef0df12414f72e.jpg",
-    "static/media/slide-7.jpg": "/coderiver/static/media/slide-7.bcbf3e16131ed601cd15.jpg",
-    "static/media/slide-2.jpg": "/coderiver/static/media/slide-2.02bcc27029d91b789796.jpg",
-    "static/media/slide-10.jpg": "/coderiver/static/media/slide-10.bf6b0b5d417dc15ccb1b.jpg",
-    "static/media/slide-11.jpg": "/coderiver/static/media/slide-11.7a2d179c5cc92ebbccab.jpg",
-    "static/media/android.svg": "/coderiver/static/media/android.d694868929d64055302d8266631708c2.svg",
-    "static/media/apple.svg": "/coderiver/static/media/apple.1b6f303dc88f4ef27c290ac93c4ad68f.svg",
-    "static/media/right.svg": "/coderiver/static/media/right.ae6a7f9ad15d12dc1ac067fefbda1c2b.svg",
-    "static/media/left.svg": "/coderiver/static/media/left.2e4a792ff38943f109c08e00baafb948.svg",
-    "index.html": "/coderiver/index.html",
-    "main.b881cab3.css.map": "/coderiver/static/css/main.b881cab3.css.map",
-    "main.cc42d34b.js.map": "/coderiver/static/js/main.cc42d34b.js.map"
+    "main.css": "https://meronggk.github.io/home-design-gallery/static/css/main.b881cab3.css",
+    "main.js": "https://meronggk.github.io/home-design-gallery/static/js/main.d19943a5.js",
+    "static/media/home-img.jpg": "https://meronggk.github.io/home-design-gallery/static/media/home-img.a418a10b3f55681d46a1.jpg",
+    "static/media/slide-4.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-4.6f60408c9933cbf41015.jpg",
+    "static/media/slide-6.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-6.273d0465f95a23ce2962.jpg",
+    "static/media/slide-8.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-8.c3e8584ee40d839872a8.jpg",
+    "static/media/slide-3.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-3.b9f66259fbd61ea0dcfb.jpg",
+    "static/media/slide-5.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-5.36776858372a55ed9f0f.jpg",
+    "static/media/slide-1.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-1.31be25227d2bcfa49933.jpg",
+    "static/media/slide-9.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-9.33d831ef0df12414f72e.jpg",
+    "static/media/slide-7.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-7.bcbf3e16131ed601cd15.jpg",
+    "static/media/slide-2.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-2.02bcc27029d91b789796.jpg",
+    "static/media/slide-10.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-10.bf6b0b5d417dc15ccb1b.jpg",
+    "static/media/slide-11.jpg": "https://meronggk.github.io/home-design-gallery/static/media/slide-11.7a2d179c5cc92ebbccab.jpg",
+    "static/media/android.svg": "https://meronggk.github.io/home-design-gallery/static/media/android.d694868929d64055302d8266631708c2.svg",
+    "static/media/apple.svg": "https://meronggk.github.io/home-design-gallery/static/media/apple.1b6f303dc88f4ef27c290ac93c4ad68f.svg",
+    "index.html": "https://meronggk.github.io/home-design-gallery/index.html",
+    "static/media/right.svg": "https://meronggk.github.io/home-design-gallery/static/media/right.ae6a7f9ad15d12dc1ac067fefbda1c2b.svg",
+    "static/media/left.svg": "https://meronggk.github.io/home-design-gallery/static/media/left.2e4a792ff38943f109c08e00baafb948.svg",
+    "main.b881cab3.css.map": "https://meronggk.github.io/home-design-gallery/static/css/main.b881cab3.css.map",
+    "main.d19943a5.js.map": "https://meronggk.github.io/home-design-gallery/static/js/main.d19943a5.js.map"
   },
   "entrypoints": [
     "static/css/main.b881cab3.css",
-    "static/js/main.cc42d34b.js"
+    "static/js/main.d19943a5.js"
   ]
 }
