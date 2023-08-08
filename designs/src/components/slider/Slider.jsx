@@ -10,11 +10,12 @@ const images = [
   require('../../images/slider/slide-3.jpg'),
   require('../../images/slider/slide-4.jpg'),
   require('../../images/slider/slide-5.jpg'),
-  require('../../images/slider/slide-1.jpg'),
-  require('../../images/slider/slide-2.jpg'),
-  require('../../images/slider/slide-3.jpg'),
-  require('../../images/slider/slide-4.jpg'),
-  require('../../images/slider/slide-5.jpg'),
+  require('../../images/slider/slide-6.jpg'),
+  require('../../images/slider/slide-7.jpg'),
+  require('../../images/slider/slide-8.jpg'),
+  require('../../images/slider/slide-9.jpg'),
+  require('../../images/slider/slide-10.jpg'),
+  require('../../images/slider/slide-11.jpg'),
 ];
 
 const Slider = () => {
@@ -44,7 +45,7 @@ const slideNext = () => {
   return (
     <div className="container">
       <section className="section galery">
-        <h2 className="section__title">CHOOSE LOOKS</h2>
+        <h2 className="section__title">CHOOSE DESIGNS</h2>
         <div className="slider">
           <button
             className="slider__arrow slider__arrow--left"

@@ -1,7 +1,7 @@
 import React from 'react';
 import './home.scss';
 
-import heroImg from '../../images/home/hero-img.jpg';
+import homeImg from '../../images/home/home-img.jpg';
 import appleIcon from '../../images/home/apple.svg';
 import androidIcon from '../../images/home/android.svg';
 
@@ -20,8 +20,6 @@ const Home = () => {
               CHOOSE YOUR
               <br />
                NEXT<span>DESIGN</span>
-              <br />
-              APPAREL
             </h1>
           </div>
         </div>
@@ -43,7 +41,7 @@ const Home = () => {
                 width="486"
                 height="720"
               >
-                <image href={heroImg} x="0" y="0" width="486" height="720" />
+                <image href={homeImg} x="0" y="0" width="486" height="720" />
               </pattern>
             </defs>
             <g className="group" filter="url(#filter0_d_14_2)">

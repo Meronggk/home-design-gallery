@@ -10,7 +10,7 @@ const Navbar = ({ isMenuOpen, toggleMenu }) => {
     <div className="container">
       <header className="header">
         <a className="header__logo" href="#">
-          HOME DECOR
+          DESIGN
         </a>
 
         <nav
@@ -46,7 +46,7 @@ const Navbar = ({ isMenuOpen, toggleMenu }) => {
             </li>
             <li className="navbar__item navbar__buy">
               <a className="navbar__link navbar__buy-link" href="#">
-                BOOK
+                CHOOSE
               </a>
             </li>
           </ul>

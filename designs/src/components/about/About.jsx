@@ -6,7 +6,7 @@ const About = () => {
   return (
     <div className="container ">
       <section className="section about">
-        <h2 className="section__title">MORE INFORMATION</h2>
+        <h2 className="section__title">Lorem Ipsum</h2>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam sed enim
           sed libero commodo efficitur. Suspendisse et lorem ac neque dictum
