@@ -19,7 +19,7 @@
   },
   "scripts": {
     "start": "dotenv -e .env react-scripts start",
-    "build": "dotenv -v BUILD_PATH=./build -v PUBLIC_URL=https://meronggk.github.io/home-design-gallery/ react-scripts build",
+    "build": "dotenv -v BUILD_PATH=./build react-scripts build",
     "test": "dotenv react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
